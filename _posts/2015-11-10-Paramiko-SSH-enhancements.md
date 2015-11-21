@@ -11,7 +11,7 @@ Made a small <a href="https://github.com/paramiko/paramiko/pull/604">change</a> 
 
 ### Added support for ecdsa 384 and 521 bit key authentication 
 
-Made a larger <a href="https://github.com/paramiko/paramiko/pull/611">contribution</a> by enhancing the existing <abbr title="Elliptic Curve Digital Signature Algrithm">ECDSA</abbr> class that could only handle the 256 size keys, so it can now handle all three commonly used sizes ecdsa-sha2-nistp384 and ecdsa-sha2-nistp521 key authentication.
+Made a larger <a href="https://github.com/paramiko/paramiko/pull/611">contribution</a> by enhancing the existing <abbr title="Elliptic Curve Digital Signature Algrithm">ECDSA</abbr> class that could only handle the 256 size keys, so it can now handle all three commonly used sizes: ecdsa-sha2-nistp256, ecdsa-sha2-nistp384 and ecdsa-sha2-nistp521.
 
 
 
