@@ -7,7 +7,7 @@ Made some contributions to the <a href="http://www.paramiko.org/">Paramiko modul
 
 ### Added cupport for aes192 ciphers
 
-Made a small change to add support for the the <pre>aes192-ctr</pre> and <pre>aes192-cbc</pre> ciphers. This made it into <a href="http://www.paramiko.org/changelog.html">version 1.16</a>.
+Made a small change to add support for the the `aes192-ctr` and `aes192-cbc` ciphers. This made it into <a href="http://www.paramiko.org/changelog.html">version 1.16</a>.
 
 
 
